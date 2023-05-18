@@ -1,0 +1,12 @@
+Escuela de Arte Multimedial Da Vinci
+CARRERA: Diseño y Programación Web
+MATERIA: Interacción con Dispositivos Móviles
+TRABAJO PRÁCTICO: Examen Parcial 1
+PROFESOR: D'Addezio Alejandro
+ALUMNO: Queijeiro Valentin
+CUATRIMESTRE: 2do Cuatrimestre
+COMISIÓN: DWM2AP
+TURNO: Mañana
+FECHA DE ENTREGA: 18/05/2023
+URL DEL SITIO: https://vida-sana-ten.vercel.app/
+
